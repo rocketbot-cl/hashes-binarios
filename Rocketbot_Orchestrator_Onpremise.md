@@ -2,6 +2,12 @@
 
 A continuación se muestra una tabla con los hashes de los archivos de **Rocketbot Orchestrator Onpremise**
 
+## Hash del archivo RocketbotOrchestratorOnpremise.zip
+
+```
+SHA256   |533E1E858A3193F9D46C87E3B18CC32513DA065FE0428AB7A865A960CFC07EB2|
+```
+
 |Algorithm|Hash                                                            |Path                                                                                                                |
 |---------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 |SHA256   |B1645ABE4F56028BA548FC7AE80642A216222C1960CF41D52089182EF504CEB1|E:\codigos\ROC\ROC\bin\Release\net5.0\appsettings.Development.json                                                  |
