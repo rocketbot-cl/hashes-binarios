@@ -7,7 +7,7 @@ A continuación se muestra una tabla con los hashes de los archivos de **Rocketb
 ```
 SHA256   |0EDE2A38B5B7151AF579D021DB72AB9627E9530C06D81182C32C79155DD1F542|
 ```
-
+---
 |Algorithm|Hash                                                            |Path                                                                                                                                                              |
 |---------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |SHA256   |5E25E2823ED0571CFDBAE0B1D1347AE035293F2B0AC454FB8B0388F3600FD4B6|E:\Rocketbot\Rocketbot_win_20230629\Rocketbot\_asyncio.pyd                                                                                                        |

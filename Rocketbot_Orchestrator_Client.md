@@ -6,7 +6,8 @@ A continuación se muestra una tabla con los hashes de los archivos de **Rocketb
 
 ```
 SHA256   |004B49D4938A83512F7B505CFFA878A9D1F1BABB7D069287541A1784D0786BC3|
-
+```
+---
 |Algorithm|Hash                                                            |Path                                                                                                                |
 |---------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 |SHA256   |63D50DBE094BBCE5D7BF8AF08C0D919CFA5E057CA05AE7B27704A8477C8B348F|E:\codigos\OrchestratorClient\OrchestratorClient\bin\Release\FontAwesome.WPF.dll                                    |
