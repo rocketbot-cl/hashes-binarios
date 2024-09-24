@@ -1,6 +1,6 @@
 # Tabla de Hashes de Archivos
 
-A continuación se muestra una tabla con los hashes de los archivos de Rocketbot Studio v20230629
+A continuación se muestra una tabla con los hashes de los archivos de **Rocketbot Studio v20230629**
 
 |Algorithm|Hash                                                            |Path                                                                                                                                                              |
 |---------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
